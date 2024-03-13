@@ -69,9 +69,9 @@
     ```
     
     +쉼표로 연산 가능(수와 문자는 연산 X)
-  x = "Python"
-y = "is"
-z = "awesome"
-print(x, y, z)
+    x = "Python"
+    y = "is"
+    z = "awesome"
+    print(x, y, z)
 
 
